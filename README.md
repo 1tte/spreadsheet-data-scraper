@@ -15,8 +15,8 @@ This project fetches and displays data from a **public Google Spreadsheet** and 
 ## 📥 Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/1tte/spreadsheet-data-scraper.git
+   cd spreadsheet-data-scraper
    ```
 2. Make sure you have **PHP** installed.  
 3. Configure your **Google Spreadsheet URL** in the script.  
